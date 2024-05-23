@@ -10,6 +10,10 @@
 1. **Identify Potential Platforms:**
    - Research and list platforms that can be used to import textual data relevant to tourism (e.g., social media platforms, review sites, forums).
    - Consider platforms like Twitter, TripAdvisor, Yelp, Reddit, etc.
+   - yelp --> https://github.com/lanl/yelpapi?tab=readme-ov-file, https://github.com/Yelp/yelp-fusion?tab=readme-ov-file#code-samples, https://docs.developer.yelp.com/docs/fusion-intro
+   - twitter --> https://developer.x.com/en/docs/twitter-api/getting-started/about-twitter-api, https://www.youtube.com/watch?v=GDbnarInwBQ, 
+   - reddit --> https://www.geeksforgeeks.org/python-praw-python-reddit-api-wrapper/
+   - opentable --> https://dev.opentable.com/partner-portal
 
 2. **Criteria for Comparison:**
    - **Data Accessibility:** How easy it is to access and import data from the platform.
