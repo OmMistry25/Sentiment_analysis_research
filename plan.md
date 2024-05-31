@@ -5,6 +5,7 @@
   - https://www.geeksforgeeks.org/sentiment-classification-using-bert/
   - https://huggingface.co/docs/transformers/en/model_doc/bert#transformers.BertForPreTraining
   - https://www.youtube.com/watch?v=szczpgOEdXs
+  - https://github.com/google-research/bert
 
 ## Task 1: Comparing Different Platforms for Importing Textual Data 
 **Timeline:** May 17 - May 24
