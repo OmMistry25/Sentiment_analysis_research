@@ -6,6 +6,7 @@
   - https://huggingface.co/docs/transformers/en/model_doc/bert#transformers.BertForPreTraining
   - https://www.youtube.com/watch?v=szczpgOEdXs
   - https://github.com/google-research/bert
+  - https://github.com/Wilsven/yelp-reviews-sentiment-analysis/blob/main/yelp-NLP-1-data-wrangling.ipynb 
 
 ## Task 1: Comparing Different Platforms for Importing Textual Data 
 **Timeline:** May 17 - May 24
